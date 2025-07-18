@@ -36,3 +36,7 @@ It goes beyond basic simulation, supporting a wide range of scenarios from theor
   Monitor total system energy (kinetic + potential) to validate the simulation’s physical fidelity, especially under long runtimes or coarse time steps.
 
 ---
+
+What began as a coding experiment quickly turned into something unexpectedly satisfying. Watching the simulations come to life and seeing how a few lines of math and physics could mimic the vast motions of the universe was genuinely rewarding.
+
+--
